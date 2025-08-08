@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi! I’m Siddhant Giri, a class 11 (PCM) student from India who’s passionate about coding, science, and building things that matter. I’m currently diving deep into web development, and I love shipping ideas fast and sharing what I learn openly.
 
-<!--
-**SiddhantGiri-dev/SiddhantGiri-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recently, I built [sportscsfa.in](https://www.sportscsfa.in/) from scratch—a website for a skating academy to manage students, fee payments, and more. It’s been a great journey turning real-world problems into code!
 
-Here are some ideas to get you started:
+**Tagline:**  
+_Code, science, and ideas—shipped fast, shared openly._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What excites me:**  
+> “We stand on the shoulders of millennia of scientific discovery—and the best part? It’s our turn to push the boundaries even further.” 🔥
+
+Follow me on [X (Twitter)](https://x.com/Siddhant_R_Giri)
+
+Let's connect, collaborate, and push the boundaries of what we can do with code and curiosity!
